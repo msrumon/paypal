@@ -1,0 +1,17 @@
+{
+    "name": "msrumon/paypal",
+    "description": "Issue with PayPal Checkout (Standard)",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rumon",
+            "email": "contact@msrumon.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "vlucas/phpdotenv": "^5.4",
+        "guzzlehttp/guzzle": "^7.4"
+    }
+}
